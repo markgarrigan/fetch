@@ -1,0 +1,25 @@
+{
+  "name": "@markgarrigan/fetch",
+  "version": "0.0.1",
+  "description": "Fetch with simple local storage cache and ttl.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgarrigan/fetch.git"
+  },
+  "keywords": [
+    "javascript",
+    "fetch",
+    "localStorage",
+    "cache"
+  ],
+  "author": "Mark Garrigan",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/markgarrigan/fetch/issues"
+  },
+  "homepage": "https://github.com/markgarrigan/fetch#readme"
+}
